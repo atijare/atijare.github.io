@@ -1,0 +1,469 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "conference": "East",
+            "division": "Southeast",
+            "city": "Atlanta",
+            "name": "Hawks",
+            "full_name": "Atlanta Hawks",
+            "abbreviation": "ATL",
+            "logo_url": "images/Teams/hawks.png",
+            "homepage": "https://www.nba.com/hawks"
+        },
+        {
+            "id": 2,
+            "conference": "East",
+            "division": "Atlantic",
+            "city": "Boston",
+            "name": "Celtics",
+            "full_name": "Boston Celtics",
+            "abbreviation": "BOS",
+            "logo_url": "images/Teams/celtics.png",
+            "homepage": "https://www.nba.com/celtics"
+        },
+        {
+            "id": 3,
+            "conference": "East",
+            "division": "Atlantic",
+            "city": "Brooklyn",
+            "name": "Nets",
+            "full_name": "Brooklyn Nets",
+            "abbreviation": "BKN",
+            "logo_url": "images/Teams/nets.png",
+            "homepage": "https://www.nba.com/nets"
+        },
+        {
+            "id": 4,
+            "conference": "East",
+            "division": "Southeast",
+            "city": "Charlotte",
+            "name": "Hornets",
+            "full_name": "Charlotte Hornets",
+            "abbreviation": "CHA",
+            "logo_url": "images/Teams/hornets.png",
+            "homepage": "https://www.nba.com/hornets"
+        },
+        {
+            "id": 5,
+            "conference": "East",
+            "division": "Central",
+            "city": "Chicago",
+            "name": "Bulls",
+            "full_name": "Chicago Bulls",
+            "abbreviation": "CHI",
+            "logo_url": "images/Teams/bulls.png",
+            "homepage": "https://www.nba.com/bulls"
+        },
+        {
+            "id": 6,
+            "conference": "East",
+            "division": "Central",
+            "city": "Cleveland",
+            "name": "Cavaliers",
+            "full_name": "Cleveland Cavaliers",
+            "abbreviation": "CLE",
+            "logo_url": "images/Teams/cavaliers.png",
+            "homepage": "https://www.nba.com/cavaliers"
+        },
+        {
+            "id": 7,
+            "conference": "West",
+            "division": "Southwest",
+            "city": "Dallas",
+            "name": "Mavericks",
+            "full_name": "Dallas Mavericks",
+            "abbreviation": "DAL",
+            "logo_url": "images/Teams/mavericks.png",
+            "homepage": "https://www.nba.com/mavericks"
+        },
+        {
+            "id": 8,
+            "conference": "West",
+            "division": "Northwest",
+            "city": "Denver",
+            "name": "Nuggets",
+            "full_name": "Denver Nuggets",
+            "abbreviation": "DEN",
+            "logo_url": "images/Teams/nuggets.png",
+            "homepage": "https://www.nba.com/nuggets"
+        },
+        {
+            "id": 9,
+            "conference": "East",
+            "division": "Central",
+            "city": "Detroit",
+            "name": "Pistons",
+            "full_name": "Detroit Pistons",
+            "abbreviation": "DET",
+            "logo_url": "images/Teams/pistons.png",
+            "homepage": "https://www.nba.com/pistons"
+        },
+        {
+            "id": 10,
+            "conference": "West",
+            "division": "Pacific",
+            "city": "Golden State",
+            "name": "Warriors",
+            "full_name": "Golden State Warriors",
+            "abbreviation": "GSW",
+            "logo_url": "images/Teams/warriors.png",
+            "homepage": "https://www.nba.com/warriors"
+        },
+        {
+            "id": 11,
+            "conference": "West",
+            "division": "Southwest",
+            "city": "Houston",
+            "name": "Rockets",
+            "full_name": "Houston Rockets",
+            "abbreviation": "HOU",
+            "logo_url": "images/Teams/rockets.png",
+            "homepage": "https://www.nba.com/rockets"
+        },
+        {
+            "id": 12,
+            "conference": "East",
+            "division": "Central",
+            "city": "Indiana",
+            "name": "Pacers",
+            "full_name": "Indiana Pacers",
+            "abbreviation": "IND",
+            "logo_url": "images/Teams/pacers.png",
+            "homepage": "https://www.nba.com/pacers"
+        },
+        {
+            "id": 13,
+            "conference": "West",
+            "division": "Pacific",
+            "city": "LA",
+            "name": "Clippers",
+            "full_name": "LA Clippers",
+            "abbreviation": "LAC",
+            "logo_url": "images/Teams/clippers.png",
+            "homepage": "https://www.nba.com/clippers"
+        },
+        {
+            "id": 14,
+            "conference": "West",
+            "division": "Pacific",
+            "city": "Los Angeles",
+            "name": "Lakers",
+            "full_name": "Los Angeles Lakers",
+            "abbreviation": "LAL",
+            "logo_url": "images/Teams/lakers.png",
+            "homepage": "https://www.nba.com/lakers"
+        },
+        {
+            "id": 15,
+            "conference": "West",
+            "division": "Southwest",
+            "city": "Memphis",
+            "name": "Grizzlies",
+            "full_name": "Memphis Grizzlies",
+            "abbreviation": "MEM",
+            "logo_url": "images/Teams/grizzlies.png",
+            "homepage": "https://www.nba.com/grizzlies"
+        },
+        {
+            "id": 16,
+            "conference": "East",
+            "division": "Southeast",
+            "city": "Miami",
+            "name": "Heat",
+            "full_name": "Miami Heat",
+            "abbreviation": "MIA",
+            "logo_url": "images/Teams/heat.png",
+            "homepage": "https://www.nba.com/heat"
+        },
+        {
+            "id": 17,
+            "conference": "East",
+            "division": "Central",
+            "city": "Milwaukee",
+            "name": "Bucks",
+            "full_name": "Milwaukee Bucks",
+            "abbreviation": "MIL",
+            "logo_url": "images/Teams/bucks.png",
+            "homepage": "https://www.nba.com/bucks"
+        },
+        {
+            "id": 18,
+            "conference": "West",
+            "division": "Northwest",
+            "city": "Minnesota",
+            "name": "Timberwolves",
+            "full_name": "Minnesota Timberwolves",
+            "abbreviation": "MIN",
+            "logo_url": "images/Teams/timberwolves.png",
+            "homepage": "https://www.nba.com/timberwolves"
+        },
+        {
+            "id": 19,
+            "conference": "West",
+            "division": "Southwest",
+            "city": "New Orleans",
+            "name": "Pelicans",
+            "full_name": "New Orleans Pelicans",
+            "abbreviation": "NOP",
+            "logo_url": "images/Teams/pelicans.png",
+            "homepage": "https://www.nba.com/pelicans"
+        },
+        {
+            "id": 20,
+            "conference": "East",
+            "division": "Atlantic",
+            "city": "New York",
+            "name": "Knicks",
+            "full_name": "New York Knicks",
+            "abbreviation": "NYK",
+            "logo_url": "images/Teams/knicks.png",
+            "homepage": "https://www.nba.com/knicks"
+        },
+        {
+            "id": 21,
+            "conference": "West",
+            "division": "Northwest",
+            "city": "Oklahoma City",
+            "name": "Thunder",
+            "full_name": "Oklahoma City Thunder",
+            "abbreviation": "OKC",
+            "logo_url": "images/Teams/OKC.png",
+            "homepage": "https://www.nba.com/thunder"
+        },
+        {
+            "id": 22,
+            "conference": "East",
+            "division": "Southeast",
+            "city": "Orlando",
+            "name": "Magic",
+            "full_name": "Orlando Magic",
+            "abbreviation": "ORL",
+            "logo_url": "images/Teams/magic.png",
+            "homepage": "https://www.nba.com/magic"
+        },
+        {
+            "id": 23,
+            "conference": "East",
+            "division": "Atlantic",
+            "city": "Philadelphia",
+            "name": "76ers",
+            "full_name": "Philadelphia 76ers",
+            "abbreviation": "PHI",
+            "logo_url": "images/Teams/76ers.png",
+            "homepage": "https://www.nba.com/sixers"
+        },
+        {
+            "id": 24,
+            "conference": "West",
+            "division": "Pacific",
+            "city": "Phoenix",
+            "name": "Suns",
+            "full_name": "Phoenix Suns",
+            "abbreviation": "PHX",
+            "logo_url": "images/Teams/suns.png",
+            "homepage": "https://www.nba.com/suns"
+        },
+        {
+            "id": 25,
+            "conference": "West",
+            "division": "Northwest",
+            "city": "Portland",
+            "name": "Trail Blazers",
+            "full_name": "Portland Trail Blazers",
+            "abbreviation": "POR",
+            "logo_url": "images/Teams/blazers.png",
+            "homepage": "https://www.nba.com/blazers"
+        },
+        {
+            "id": 26,
+            "conference": "West",
+            "division": "Pacific",
+            "city": "Sacramento",
+            "name": "Kings",
+            "full_name": "Sacramento Kings",
+            "abbreviation": "SAC",
+            "logo_url": "images/Teams/kings.png",
+            "homepage": "https://www.nba.com/kings"
+        },
+        {
+            "id": 27,
+            "conference": "West",
+            "division": "Southwest",
+            "city": "San Antonio",
+            "name": "Spurs",
+            "full_name": "San Antonio Spurs",
+            "abbreviation": "SAS",
+            "logo_url": "images/Teams/spurs.png",
+            "homepage": "https://www.nba.com/spurs"
+        },
+        {
+            "id": 28,
+            "conference": "East",
+            "division": "Atlantic",
+            "city": "Toronto",
+            "name": "Raptors",
+            "full_name": "Toronto Raptors",
+            "abbreviation": "TOR",
+            "logo_url": "images/Teams/raptors.png",
+            "homepage": "https://www.nba.com/raptors"
+        },
+        {
+            "id": 29,
+            "conference": "West",
+            "division": "Northwest",
+            "city": "Utah",
+            "name": "Jazz",
+            "full_name": "Utah Jazz",
+            "abbreviation": "UTA",
+            "logo_url": "images/Teams/jazz.png",
+            "homepage": "https://www.nba.com/jazz"
+        },
+        {
+            "id": 30,
+            "conference": "East",
+            "division": "Southeast",
+            "city": "Washington",
+            "name": "Wizards",
+            "full_name": "Washington Wizards",
+            "abbreviation": "WAS",
+            "logo_url": "images/Teams/wizards.png",
+            "homepage": "https://www.nba.com/wizards"
+        },
+        {
+            "id": 37,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Chicago Stags",
+            "full_name": "Chicago Stags",
+            "abbreviation": "CHS"
+        },
+        {
+            "id": 38,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "St. Louis Bombers",
+            "full_name": "St. Louis Bombers",
+            "abbreviation": "BOM"
+        },
+        {
+            "id": 39,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Cleveland Rebels",
+            "full_name": "Cleveland Rebels",
+            "abbreviation": "CLR"
+        },
+        {
+            "id": 40,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Detroit Falcons",
+            "full_name": "Detroit Falcons",
+            "abbreviation": "DEF"
+        },
+        {
+            "id": 41,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Toronto Huskies",
+            "full_name": "Toronto Huskies",
+            "abbreviation": "HUS"
+        },
+        {
+            "id": 42,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Washington Capitols",
+            "full_name": "Washington Capitols",
+            "abbreviation": "WAS"
+        },
+        {
+            "id": 43,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Providence Steamrollers",
+            "full_name": "Providence Steamrollers",
+            "abbreviation": "PRO"
+        },
+        {
+            "id": 44,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Pittsburgh Ironmen",
+            "full_name": "Pittsburgh Ironmen",
+            "abbreviation": "PIT"
+        },
+        {
+            "id": 45,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Baltimore Bullets",
+            "full_name": "Baltimore Bullets",
+            "abbreviation": "BAL"
+        },
+        {
+            "id": 46,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Indianapolis Jets",
+            "full_name": "Indianapolis Jets",
+            "abbreviation": "JET"
+        },
+        {
+            "id": 47,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Anderson Packers",
+            "full_name": "Anderson Packers",
+            "abbreviation": "AND"
+        },
+        {
+            "id": 48,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Waterloo Hawks",
+            "full_name": "Waterloo Hawks",
+            "abbreviation": "WAT"
+        },
+        {
+            "id": 49,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Indianapolis Olympians",
+            "full_name": "Indianapolis Olympians",
+            "abbreviation": "INO"
+        },
+        {
+            "id": 50,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Denver Nuggets",
+            "full_name": "Denver Nuggets",
+            "abbreviation": "DN"
+        },
+        {
+            "id": 51,
+            "conference": "    ",
+            "division": "",
+            "city": "",
+            "name": "Sheboygan Redskins",
+            "full_name": "Sheboygan Redskins",
+            "abbreviation": "SHE"
+        }
+    ]
+}

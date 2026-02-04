@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoop Connect | Fan Zone</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/script.js" defer></script>
+
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <h1>Hoop Connect</h1>
+        </div> 
+        <nav>
+            <ul>
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="profiles.html" class="nav-link">Player Profiles</a></li>
+                <li><a href="teams.html" class="nav-link">Team Pages</a></li>
+                <li><a href="fanzone.html" class="nav-link active">Fan Zone</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="fan-zone">
+        <h2>Fan Zone</h2>
+        <p>Tell us about yourself and your favorite players!</p>
+        <form id="favorite-player-form">
+            <div class="name-section">
+                <label for="first-name">First Name:</label>
+                <input type="text" id="first-name" name="first-name" required placeholder="Enter your first name">
+                
+                <label for="last-name">Last Name:</label>
+                <input type="text" id="last-name" name="last-name" required placeholder="Enter your last name">
+            </div>
+            
+            <label for="birthday">Birthday:</label>
+            <input type="date" id="birthday" name="birthday" required>
+            
+            <label for="favorite-player">Favorite Player Right Now:</label>
+            <input type="text" id="favorite-player" name="favorite-player" required placeholder="Enter your favorite player">
+            
+            <label for="best-player">Best Player of All Time:</label>
+            <input type="text" id="best-player" name="best-player" required placeholder="Enter the best player of all time">
+            
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Hoop Connect | All Rights Reserved</p>
+        <div class="social-icons">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
+</body>
+</html>
